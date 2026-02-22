@@ -1,1 +1,3 @@
-# FUTURE_CS_02
+This project utilized structured security analysis techniques to examine phishing email samples 
+
+Tools included manual email header inspection, domain and link analysis, and verification of SPF, DKIM, and DMARC authentication results. WHOIS lookups and domain reputation checks were referenced to validate suspicious URLs. The analysis approach focused on identifying technical indicators (spoofed sender addresses, malicious links, authentication failures) and psychological tactics such as urgency, impersonation, and generic greetings. A risk-based classification method was applied to assess impact severity and determine whether the emails were legitimate, suspicious, or malicious.
